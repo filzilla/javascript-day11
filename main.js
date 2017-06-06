@@ -183,7 +183,7 @@ if(-5 && 5){
 } else {
 	console.log("False!");
 }
-// A:False // the negative number returns false and the positive number returns true.  true AND false would return a false response
+// A: True
 
 
 // 26.
@@ -219,7 +219,7 @@ if(new Date()){
 } else {
 	console.log("False!");
 }
-// A:False! //  this one is tough.  however, the object conctructor is called WITHOUT a value thus is should return as null or undefined
+// A:True // an object is true
 
 
 // 30.
